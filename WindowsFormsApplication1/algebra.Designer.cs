@@ -105,7 +105,7 @@
             this.button3.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.Location = new System.Drawing.Point(845, 331);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(61, 53);
+            this.button3.Size = new System.Drawing.Size(87, 53);
             this.button3.TabIndex = 9;
             this.button3.Text = "AND";
             this.button3.UseVisualStyleBackColor = true;

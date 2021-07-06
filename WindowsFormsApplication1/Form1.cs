@@ -186,5 +186,12 @@ namespace WindowsFormsApplication1
             base.OnClosed(e);
             Application.Exit();
         }
+
+        private void button5_Click_1(object sender, EventArgs e)
+        {
+            Filter f = new Filter();
+            f.Show();
+            this.Hide();
+        }
     }
 }
